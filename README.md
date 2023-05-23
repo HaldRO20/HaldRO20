@@ -9,4 +9,3 @@ Estudiante de Ingeneiria Biomedica de la Universidad Latina de Panama, actualmen
 - 🧬 Me gustaria tener una perspectiva investigativa y tecnologica que se integre a la investigacion Biologica
 - 🔬 Pense que no me envolveria en topicos relacionados a la programacion e ingenieria durante mi vida
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fbackground-khaoticfuture-gif-26445101&psig=AOvVaw38ObHSEjhvxqp2O89fmTK2&ust=1684885192952000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCYv82Miv8CFQAAAAAdAAAAABBG
