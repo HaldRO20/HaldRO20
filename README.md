@@ -1,8 +1,8 @@
-## [ Presentacion ] | 🩻
+## Presentacion | 🩻
 
 Estudiante de Ingeneiria Biomedica de la Universidad Latina de Panama, actualmente cursando el 4to año de dicha licenciatura y dispuesto a la realizacion de proyectos que envuelvan el campo de la Inteligencia artificial.
 
-## [ Algunas Curiosidades ] | 🩺
+## Algunas Curiosidades | 🩺
 
 - 💻 Actualmente me encuentro desarollandome en el Area de Regulatorio Implementando Data Analysis
 - 💎 Estoy mejorando mis habilidades de Analisis critico y Programacion
