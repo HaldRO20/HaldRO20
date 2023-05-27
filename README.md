@@ -1,5 +1,5 @@
 ![logo](https://github.com/HaldRO20/HaldRO20/blob/main/BannerGithub.png)
-<h1 align="center"> 🔬 | Christopher H. Rodriguez P. | 🧬
+<h1 align="center"> 🔬 | Christopher H. Rodriguez P. | 🔬
 
 ## Presentacion | 🩻
 
