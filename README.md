@@ -7,8 +7,8 @@
 
 ## Algunas Curiosidades | 🩺
 
-- 💻 Actualmente me encuentro desarollandome en el Area de Regulatorio Implementando Data Analysis
-- 💎 Estoy mejorando mis habilidades de Analisis critico y Programacion
-- 🧬 Me gustaria tener una perspectiva investigativa y tecnologica que se integre a la investigacion Biologica
-- 🔬 Pense que no me envolveria en topicos relacionados a la programacion e ingenieria durante mi vida
+- 💻 | Actualmente me encuentro desarollandome en el Area de Regulatorio Implementando Data Analysis
+- 💎 | Estoy mejorando mis habilidades de Analisis critico y Programacion
+- 🧬 | Me gustaria tener una perspectiva investigativa y tecnologica que se integre a la investigacion Biologica
+- 🔬 | Pense que no me envolveria en topicos relacionados a la programacion e ingenieria durante mi vida
 
